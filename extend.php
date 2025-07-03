@@ -11,6 +11,8 @@ namespace TheTurk\MathRen;
 
 use Flarum\Api\Serializer\ForumSerializer;
 use Flarum\Extend;
+use TheTurk\MathRen\LoadSettings;
+use TheTurk\MathRen\ConfigureTextFormatter;
 
 return [
     (new Extend\Frontend('forum'))
