@@ -1,5 +1,5 @@
 {
-    "name": "the-turk/flarum-mathren",
+    "name": "hamcq/flarum-mathren",
     "description": "TeX math rendering for your forum.",
     "keywords": [
         "flarum",
@@ -15,11 +15,16 @@
     "authors": [{
         "name": "Hasan Özbey",
         "email": "hasanoozbey@gmail.com",
-        "homepage": "https://github.com/the-turk"
+        "homepage": "https://github.com/hamcq"
+    },
+    {
+        "name": "HamCQ",
+        "email": "contact@hamcq.cn",
+        "homepage": "https://github.com/hamcq"
     }],
     "support": {
-        "issues": "https://github.com/the-turk/flarum-mathren/issues",
-        "source": "https://github.com/the-turk/flarum-mathren",
+        "issues": "https://github.com/hamcq/flarum-mathren/issues",
+        "source": "https://github.com/hamcq/flarum-mathren",
         "docs": "https://katex.org/docs/options.html"
     },
     "require": {
